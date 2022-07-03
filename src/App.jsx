@@ -149,7 +149,7 @@ function App() {
       "https://www.youtube.com/channel/UC5CRP-6oxYenIgBj17CkBZg"
     );
     setLivestream(
-      "https://www.youtube.com/watch?v=uxR_sTZnBtg&ab_channel=StudyMD"
+      "https://www.youtube.com/watch?v=1VOWybJxQz0"
     );
     playLiveStream(true);
     setPauseScreen("unpauseScreen");
